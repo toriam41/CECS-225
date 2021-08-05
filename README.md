@@ -1,4 +1,4 @@
-# CECS-225
+# CECS 225
 Digital Logic and Assembly Programming
 
 Language(s): Python, VHDL
